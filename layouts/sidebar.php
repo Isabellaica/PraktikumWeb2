@@ -48,7 +48,7 @@
             <a href="praktikum.php" class="nav-link">
               <i class="nav-icon fas fa-user"></i>
               <p>
-                Praktikum WEB2
+                Praktikum Web 2
                 <!-- <span class="right badge badge-danger">New</span> -->
               </p>
             </a>
